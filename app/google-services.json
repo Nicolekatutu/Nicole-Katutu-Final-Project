@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395761676261",
+    "firebase_url": "https://preat-49aad.firebaseio.com",
+    "project_id": "preat-49aad",
+    "storage_bucket": "preat-49aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395761676261:android:59627b8571b31626c0090c",
+        "android_client_info": {
+          "package_name": "com.example.preat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395761676261-tj3c7majh7gfms65olnm1phoq4a2ph6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB86kNjtYoVTOjXxdVfe5kht94ZFcrKVBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395761676261-tj3c7majh7gfms65olnm1phoq4a2ph6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

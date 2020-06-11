@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/Btnsignup</color>
+    <color name="colorPrimaryDark">@color/Btnsignin</color>
+    <color name="colorAccent">@color/Btnsignin</color>
+
+    <color name="Btnsignup">#EA0452</color>
+    <color name="Btnsignin">#FF9800</color>
+</resources>
